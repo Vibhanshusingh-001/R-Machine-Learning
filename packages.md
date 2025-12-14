@@ -1,6 +1,6 @@
 # Popular Machine Learning Packages in R
 
-R offers a rich ecosystem for machine learning (ML), with packages spanning model training, algorithms, ensembles, deep learning, data processing, evaluation, and domain-specific applications like bioinformatics. This guide provides detailed explanations of the listed packages, organized by category. Each entry covers purpose, installation, key features, main functions, examples, and comparisons where relevant. As of December 2025, versions are noted from CRAN and recent updates. These packages integrate well with the tidyverse for seamless workflows.
+R offers a rich ecosystem for machine learning (ML), with packages spanning model training, algorithms, ensembles, deep learning, data processing, evaluation, and domain-specific applications like bioinformatics. This guide provides detailed explanations of the listed packages, organized by category. 
 
 ## Core Machine Learning Frameworks
 
